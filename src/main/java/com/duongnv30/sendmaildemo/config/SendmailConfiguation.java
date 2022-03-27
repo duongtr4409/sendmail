@@ -20,7 +20,7 @@ public class SendmailConfiguation {
 	@Value("${mailServer.email:nvduong216@gmail.com}")
 	private String email;
 	
-	@Value("${mailServer.password:duongvan98}")
+	@Value("${mailServer.password:123121123aA@}")
 	private String password;
 	
 	@Value("${mailServer.protocol:smtp}")

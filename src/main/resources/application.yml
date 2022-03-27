@@ -2,6 +2,6 @@ mailServer:
   host: smtp.gmail.com
   port: 587
   email: nvduong216@gmail.com
-  password: duongvan98
+  password: 123121123aA@
   protocol: smtp
   isSSL: false 
